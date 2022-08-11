@@ -201,7 +201,7 @@ const MainPage: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Munkhjin Nyamdorj @nyamkamuhjin</title>
+        <title>Updated Munkhjin Nyamdorj @nyamkamuhjin</title>
       </Head>
       <div className="pt-20 bg-black min-w-full min-h-screen w-full h-full flex flex-col items-center gap-6 font-mono p-4 pb-20">
         <motion.p
